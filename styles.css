@@ -1,0 +1,32 @@
+h1.titulo{
+    color: maroon;
+    text-align: center
+}
+body.body{
+    background-color: burlywood;
+}
+div.cafe{
+    position: absolute; 
+     bottom: 50%;
+     top: 50%;
+     left: 50%;
+}
+div.contacto{
+    position: relative;
+    float: right;
+    bottom: -600px;
+}
+
+body.body1{
+    background-color: burlywood;
+}
+hr{
+    color: black;
+}
+div.letra{
+    color: red;
+}
+div.letra1{
+    color: red;
+    text-align: center;
+}
